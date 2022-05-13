@@ -1,8 +1,7 @@
-title: Hamilton
+title: Haruster
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
 author: Shangzhi Huang
 avatar: /logo.png
-email: ngzhio@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -34,10 +33,8 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Shangzhi Huang
+  name: Haruster
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://github.com/haruster
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
