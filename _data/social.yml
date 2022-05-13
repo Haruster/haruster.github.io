@@ -1,6 +1,7 @@
 - title: GitHub
   url: https://github.com/haruster
+  icon: fab fa-github
 
 - title: blog
-  url: https://twitter.com/ngzhio
+  url: "https://haruster.tistory.com/"
   icon: fab fa-blog
